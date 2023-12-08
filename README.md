@@ -28,3 +28,9 @@ This project has the following structure fitting with different stages of the pr
 5. **loss_function_adjustment.ipynb**
 
     This notebook explores the adjustment of the loss function to better generalise and train the model to work with noise to noise architecture.
+
+more aggressive in regularization
+find the commonalities mong -> new representation
+
+attempt to inc;ude a latent representation 
+
