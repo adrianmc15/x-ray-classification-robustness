@@ -29,8 +29,19 @@ This project has the following structure fitting with different stages of the pr
 
     This notebook explores the adjustment of the loss function to better generalise and train the model to work with noise to noise architecture.
 
-more aggressive in regularization
-find the commonalities mong -> new representation
+    - auto-encoders: https://www.analyticsvidhya.com/blog/2021/07/image-denoising-using-autoencoders-a-beginners-guide-to-deep-learning-project/
+    - use mae and huber loss
+    - attention mechanism
 
-attempt to inc;ude a latent representation 
+6. **Other Techniques**
+
+    This will include a variety of other techniques for improving the network:
+    - lung segmentation: https://github.com/IlliaOvcharenko/lung-segmentation (can be fed back into CNN)
+    - ß
+
+
+more aggressive in regularization
+find the commonalities among -> new representation
+
+attempt to include a latent representational model 
 
