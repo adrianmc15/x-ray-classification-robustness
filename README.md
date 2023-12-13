@@ -41,18 +41,18 @@ This project has the following structure fitting with different stages of the pr
 
     This notebook explores the adjustment of the loss function to better generalise and train the model to work with noise to noise architecture.
 
-        [x] *Autoencoder -> try to interpret results
+        [x] * Autoencoder -> try to interpret results
             -> create autoencoder noisy-to-noisy
             -> feed encoder output into CNN
             -> see how good that is
             -> try different losses (apparently MAE and Huber are better for noise)
             -> Future Goal: try to find a way to manually find the latent representation, or find a latent representation that will help with this (applying wavelet, fft)
 
-            Accuracy: 96.6 %
+            Accuracy: 93.3 %
 
         [ ] using different losses (MAE and Huber)
         [ ] More Aggressive Regularization
-        [ ] *Wavelet Transform Layers
+        [ ] * Wavelet Transform Layers
 
         [ ] (FFT w/ filter representation?)
 
