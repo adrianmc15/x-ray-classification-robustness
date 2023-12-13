@@ -93,12 +93,14 @@ What new representation of the images can we apply to the CNN to get the best re
     - Wavelet Transform Layers
     - (FFT w/ filter representation?)
 
-5. **Other Approaches**
+5. **Combined Approach**
 
-    - lung segmentation
+    - Mixed Input
+    - Autoencoder
+    - Regularization
 
 Papers to look at wrt Step 4:
-- https://www.analyticsvidhya.com/blog/2021/07/image-denoising-using-autoencoders-a-beginners-guide-to-deep-learning-project/
+x https://www.analyticsvidhya.com/blog/2021/07/image-denoising-using-autoencoders-a-beginners-guide-to-deep-learning-project/
 - https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6705590
 - https://ieeexplore.ieee.org/abstract/document/9508165?casa_token=OXw1dfgH2GMAAAAA:keFGl9O1BjLdLCsk1ZwSuxFXmW9bROQFHb2ULdRY7nEO9_CBrHa0oB2HLLIzTMh8PuhMRKubyA

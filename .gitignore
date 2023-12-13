@@ -3,3 +3,6 @@ TB_Chest_Radiography_Database
 archive.zip
 2_training_with_noise/X*
 2_training_with_noise/y*
+3_denoising_techniques/X*
+3_denoising_techniques/y*
+4_changing_cnn_model/X*
