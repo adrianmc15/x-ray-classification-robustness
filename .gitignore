@@ -6,3 +6,7 @@ archive.zip
 3_denoising_techniques/X*
 3_denoising_techniques/y*
 4_changing_cnn_model/X*
+6_assessing_metrics/denoised_images
+6_assessing_metrics/denoised_images_test
+6_assessing_metrics/original_images
+6_assessing_metrics/original_images_test
